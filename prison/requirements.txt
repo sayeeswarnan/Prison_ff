@@ -3,5 +3,4 @@ opencv-python
 numpy
 ultralytics
 Pillow
-smtplib
-email
+
