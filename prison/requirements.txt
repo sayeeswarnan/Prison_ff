@@ -1,7 +1,11 @@
-streamlit
-numpy
+streamlit==1.25.0  # Use the correct Streamlit version you need
 ultralytics
+numpy
 Pillow
-imageio[ffmpeg]
+smtplib  # For sending emails
+PyOpenGL
+PyOpenGL-accelerate
+opencv-python-headless  # Replace opencv-python with this to avoid GUI issues
+
  
 
